@@ -1,0 +1,7 @@
+[submodule "src/qualisys_ros"]
+	path = src/qualisys_ros
+	url = https://github.com/zp-yang/qualisys_ros.git
+[submodule "src/visnet"]
+	path = src/visnet
+	url = https://github.com/zp-yang/visnet.git
+	branch = tii
