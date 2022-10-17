@@ -5,6 +5,7 @@ Build and source
 ```
 git clone https://github.com/zp-yang/tii_ws.git
 cd tii_ws
+git submodule upate --init
 colcon build
 . install/setup.bash
 ```
